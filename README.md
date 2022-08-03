@@ -1,3 +1,3 @@
 # goldybot - Бот для веселья
-[Посетите наш сайт] (https://goldymine.tk)
+## [Посетите наш сайт](https://goldymine.tk)
 
